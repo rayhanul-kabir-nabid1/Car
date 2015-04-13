@@ -1,0 +1,10 @@
+E:\2-1\APL\projects\Car\ENTITY\bin\Debug\ENTITY.dll
+E:\2-1\APL\projects\Car\ENTITY\bin\Debug\ENTITY.pdb
+E:\2-1\APL\projects\Car\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\2-1\APL\projects\Car\ENTITY\obj\Debug\ENTITY.dll
+E:\2-1\APL\projects\Car\ENTITY\obj\Debug\ENTITY.pdb
+E:\Code\Car\ENTITY\bin\Debug\ENTITY.dll
+E:\Code\Car\ENTITY\bin\Debug\ENTITY.pdb
+E:\Code\Car\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\Code\Car\ENTITY\obj\Debug\ENTITY.dll
+E:\Code\Car\ENTITY\obj\Debug\ENTITY.pdb
